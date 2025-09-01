@@ -1,0 +1,19 @@
+{
+  "name": "@easinlee/package_example",
+  "version": "1.0.0",
+  "description": "package_example desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easinlee/package_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easinlee/package_example/issues"
+  },
+  "homepage": "https://github.com/easinlee/package_example#readme"
+}
