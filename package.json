@@ -2,7 +2,7 @@
   "name": "@easinlee/package_example",
   "version": "1.0.0",
   "description": "package_example desc",
-   "publishConfig": {"@easinlee:registry": "https://npm.pkg.github.com"}
+   "publishConfig": {"@easinlee:registry": "https://npm.pkg.github.com"},
   "main": "index.js",
   "scripts": {
     "test": "exit"
